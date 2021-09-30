@@ -1,0 +1,134 @@
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\QLSV_HTC.exe.config
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\QLSV_HTC.exe
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\QLSV_HTC.pdb
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.Data.v19.2.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\FontAwesome.Sharp.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.Data.v19.2.xml
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\obj\Debug\QLSV_HTC.csproj.AssemblyReference.cache
+D:\Project VS\QLSV_HTC\QLSV_HTC\obj\Debug\QLSV_HTC.LoginForm.resources
+D:\Project VS\QLSV_HTC\QLSV_HTC\obj\Debug\QLSV_HTC.Properties.Resources.resources
+D:\Project VS\QLSV_HTC\QLSV_HTC\obj\Debug\QLSV_HTC.csproj.GenerateResource.cache
+D:\Project VS\QLSV_HTC\QLSV_HTC\obj\Debug\QLSV_HTC.exe.licenses
+D:\Project VS\QLSV_HTC\QLSV_HTC\obj\Debug\QLSV_HTC.csproj.CoreCompileInputs.cache
+D:\Project VS\QLSV_HTC\QLSV_HTC\obj\Debug\QLSV_HTC.csproj.CopyComplete
+D:\Project VS\QLSV_HTC\QLSV_HTC\obj\Debug\QLSV_HTC.exe
+D:\Project VS\QLSV_HTC\QLSV_HTC\obj\Debug\QLSV_HTC.pdb
+D:\Project VS\QLSV_HTC\QLSV_HTC\obj\Debug\QLSV_HTC.ChooseServerForm.resources
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\obj\Debug\QLSV_HTC.frmLop.resources
+D:\Project VS\QLSV_HTC\QLSV_HTC\obj\Debug\QLSV_HTC.frmLopTinChi.resources
+D:\Project VS\QLSV_HTC\QLSV_HTC\obj\Debug\QLSV_HTC.frmMonHoc.resources
+D:\Project VS\QLSV_HTC\QLSV_HTC\obj\Debug\QLSV_HTC.MainForm.resources
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Project VS\QLSV_HTC\QLSV_HTC\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\QLSV_HTC.exe.config
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\QLSV_HTC.exe
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\QLSV_HTC.pdb
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.Data.v19.2.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\FontAwesome.Sharp.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.Data.v19.2.xml
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\obj\Debug\QLSV_HTC.csproj.AssemblyReference.cache
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\obj\Debug\QLSV_HTC.ChooseServerForm.resources
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\obj\Debug\QLSV_HTC.frmLop.resources
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\obj\Debug\QLSV_HTC.frmLopTinChi.resources
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\obj\Debug\QLSV_HTC.frmMonHoc.resources
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\obj\Debug\QLSV_HTC.LoginForm.resources
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\obj\Debug\QLSV_HTC.MainForm.resources
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\obj\Debug\QLSV_HTC.Properties.Resources.resources
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\obj\Debug\QLSV_HTC.csproj.GenerateResource.cache
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\obj\Debug\QLSV_HTC.exe.licenses
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\obj\Debug\QLSV_HTC.csproj.CoreCompileInputs.cache
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\obj\Debug\QLSV_HTC.csproj.CopyComplete
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\obj\Debug\QLSV_HTC.exe
+D:\KyNguyen\Nam_4\CSDLPT\QLSV_HTC\QLSV_HTC\QLSV_HTC\obj\Debug\QLSV_HTC.pdb
